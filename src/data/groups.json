@@ -1,0 +1,63 @@
+{
+  "categoryGroups": [
+    {
+      "id": "carnes",
+      "groupName": "Carnes",
+      "groupLink": "/tienda/carnes",
+      "items": [
+        { "name": "Ternera", "link": "/tienda/carnes/ternera" },
+        { "name": "Cerdo", "link": "/tienda/carnes/cerdo" },
+        { "name": "Cordero", "link": "/tienda/carnes/cordero-y-cabrito" },
+        { "name": "Aves", "link": "/tienda/carnes/pollo" }
+      ]
+    },
+    {
+      "id": "embutidos",
+      "groupName": "Charcuteria",
+      "groupLink": "/tienda/embutidos",
+      "items": [
+        { "name": "Jamones", "link": "/tienda/embutidos/jamones" },
+        { "name": "Curados", "link": "/tienda/embutidos/curados" },
+        { "name": "Quesos", "link": "/tienda/embutidos/quesos" },
+        { "name": "Fiambre", "link": "/tienda/embutidos/fiambre" },
+        { "name": "Pescados", "link": "/tienda/embutidos/pescados" }
+      ]
+    },
+    {
+      "id": "preparados",
+      "groupName": "Preparados",
+      "groupLink": "/tienda/preparados",
+      "items": [
+        { "name": "Empanadas", "link": "/tienda/preparados/empanadas" },
+        { "name": "Preparados", "link": "/tienda/preparados/preparados" },
+        { "name": "Asados", "link": "/tienda/preparados/asados" },
+        { "name": "Postres", "link": "/tienda/preparados/postres" }
+      ]
+    },
+    {
+      "id": "gourmet",
+      "groupName": "Gourmet",
+      "groupLink": "/tienda/gourmet",
+      "items": [
+        { "name": "Vinos", "link": "/tienda/gourmet/vinos" },
+        { "name": "Licores", "link": "/tienda/gourmet/licores" },
+        { "name": "Salsas", "link": "/tienda/gourmet/salsas" },
+        { "name": "Mermeladas", "link": "/tienda/gourmet/mermeladas" },
+        { "name": "Aceites", "link": "/tienda/gourmet/aceites" }
+      ]
+    },
+    {
+      "id": "varios",
+      "groupName": "Varios",
+      "groupLink": "/tienda/varios",
+      "items": [
+        { "name": "Conservas", "link": "/tienda/varios/conservas" },
+        { "name": "Panes y Snacks", "link": "/tienda/varios/panes-y-snacks" },
+        { "name": "Bebidas", "link": "/tienda/varios/bebidas" },
+        { "name": "Encurtidos", "link": "/tienda/varios/encurtidos" },
+        { "name": "Legumbres", "link": "/tienda/varios/legumbres" },
+        { "name": "Huevos", "link": "/tienda/varios/huevos" }
+      ]
+    }
+  ]
+}
